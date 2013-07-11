@@ -7,7 +7,7 @@
   {
     "background": 
     {
-      //"scripts": ["background.js"]
+      "scripts": ["git.js"]
     }
   },
   "permissions": [ "usb"]
